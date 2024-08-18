@@ -402,6 +402,9 @@ Below are the metrics calculated for each customer segment of interest:
 - 
 **=> Reallocate the initial budget of 9,000 evenly among the remaining customer segments.**
 
+# Question 3: 
+[Question 3_Machine Learning Model](https://colab.research.google.com/drive/1KqrCZeHO_kOl2StQ8MEmTDgPBFztoj9y)
+
   
 
 
